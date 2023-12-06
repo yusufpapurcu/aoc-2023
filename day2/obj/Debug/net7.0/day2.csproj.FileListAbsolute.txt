@@ -1,0 +1,15 @@
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/bin/Debug/net7.0/day2
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/bin/Debug/net7.0/day2.deps.json
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/bin/Debug/net7.0/day2.runtimeconfig.json
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/bin/Debug/net7.0/day2.dll
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/bin/Debug/net7.0/day2.pdb
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/obj/Debug/net7.0/day2.csproj.AssemblyReference.cache
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/obj/Debug/net7.0/day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/obj/Debug/net7.0/day2.AssemblyInfoInputs.cache
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/obj/Debug/net7.0/day2.AssemblyInfo.cs
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/obj/Debug/net7.0/day2.csproj.CoreCompileInputs.cache
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/obj/Debug/net7.0/day2.dll
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/obj/Debug/net7.0/refint/day2.dll
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/obj/Debug/net7.0/day2.pdb
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/obj/Debug/net7.0/day2.genruntimeconfig.cache
+/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day2/obj/Debug/net7.0/ref/day2.dll

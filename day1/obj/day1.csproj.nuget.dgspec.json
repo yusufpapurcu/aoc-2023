@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day1/day1.csproj": {}
+  },
+  "projects": {
+    "/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day1/day1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day1/day1.csproj",
+        "projectName": "day1",
+        "projectPath": "/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day1/day1.csproj",
+        "packagesPath": "/Users/yusuf.papurcu/.nuget/packages/",
+        "outputPath": "/Users/yusuf.papurcu/go/src/github.com/yusufpapurcu/aoc-2023/day1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yusuf.papurcu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://saltpay.jfrog.io/artifactory/api/nuget/v3/main-nuget-virtual/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
