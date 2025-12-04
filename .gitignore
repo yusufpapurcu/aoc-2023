@@ -1,0 +1,14 @@
+# Advent of Code - Personal puzzle inputs
+# Do not commit personal inputs as requested by AoC creator
+*/inputs/input.txt
+
+# .NET build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# IDE
+.vs/
+.vscode/settings.json
